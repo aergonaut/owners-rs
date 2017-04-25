@@ -1,0 +1,8 @@
+[package]
+name = "owners"
+version = "0.1.0"
+authors = ["Chris Fung <aergonaut@gmail.com>"]
+
+[dependencies]
+nom = "2.2.1"
+glob = "0.2.11"
