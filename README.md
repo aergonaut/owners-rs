@@ -1,5 +1,7 @@
 # owners-rs
 
+[![Build Status](https://travis-ci.org/aergonaut/owners-rs.svg?branch=master)](https://travis-ci.org/aergonaut/owners-rs)
+
 This crate provides a parser for OWNERS files, based on a simplified version of
 [Chrome's OWNERS files](https://chromium.googlesource.com/chromium/src/+/master/docs/code_reviews.md).
 
