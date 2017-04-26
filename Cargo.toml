@@ -4,6 +4,7 @@ version = "0.1.0"
 authors = ["Chris Fung <aergonaut@gmail.com>"]
 repository = "https://github.com/aergonaut/owners-rs"
 homepage = "https://github.com/aergonaut/owners-rs"
+documentation = "https://docs.rs/owners"
 readme = "README.md"
 license = "MIT OR Apache-2.0"
 description = "Parsing of OWNERS files in Rust"
